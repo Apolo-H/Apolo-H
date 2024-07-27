@@ -1,6 +1,4 @@
-<p align="center">
-<img src="https://i.imgur.com/5EMZ9gy.png" style="height:500px"; width="1500px" >
-</p>
+
 <div align='center'>
 <img alt="Static Badge" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
