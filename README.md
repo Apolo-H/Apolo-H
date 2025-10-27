@@ -6,7 +6,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 
 <div align='center'>
-<span>olá, meu nome é</span>
+<span>Olá, meu nome é</span>
 <h1>Apolo</h1>
 
 </div>
